@@ -11,7 +11,7 @@ Example of a web page of a movie theater styled using bootstrap.
 [View](https://github.com/bobisloth/HTML-and-CSS-Projects/tree/main/bootstrap4_project)
 
 
-#JavaScript Projects
+# JavaScript Projects
 
 ## Pizza Menu
 Example of a page for ordering pizza(https://github.com/bobisloth/JavaScript-Projects/tree/master/Pizza_Menu)
